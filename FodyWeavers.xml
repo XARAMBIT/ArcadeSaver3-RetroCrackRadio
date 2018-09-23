@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Weavers VerifyAssembly="true">
+<Costura IncludeDebugSymbols='false' DisableCompression='true'>
+    <IncludeAssemblies>
+        Interop.WMPLib
+        AxInterop.WMPLib
+    </IncludeAssemblies>
+</Costura>
+</Weavers>
