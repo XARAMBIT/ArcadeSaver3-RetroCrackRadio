@@ -93,6 +93,16 @@ namespace ArcadeSaver.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bublbobl {
+            get {
+                object obj = ResourceManager.GetObject("bublbobl", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap defenderg {
             get {
                 object obj = ResourceManager.GetObject("defenderg", resourceCulture);
@@ -123,6 +133,26 @@ namespace ArcadeSaver.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap docastle {
+            get {
+                object obj = ResourceManager.GetObject("docastle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap galaga3 {
+            get {
+                object obj = ResourceManager.GetObject("galaga3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap galaxian {
             get {
                 object obj = ResourceManager.GetObject("galaxian", resourceCulture);
@@ -133,9 +163,29 @@ namespace ArcadeSaver.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap gradius {
+            get {
+                object obj = ResourceManager.GetObject("gradius", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap gyruss {
             get {
                 object obj = ResourceManager.GetObject("gyruss", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hangon {
+            get {
+                object obj = ResourceManager.GetObject("hangon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,6 +243,16 @@ namespace ArcadeSaver.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap mspacman {
+            get {
+                object obj = ResourceManager.GetObject("mspacman", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pacman {
             get {
                 object obj = ResourceManager.GetObject("pacman", resourceCulture);
@@ -213,9 +273,29 @@ namespace ArcadeSaver.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap regulus {
+            get {
+                object obj = ResourceManager.GetObject("regulus", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap sinistar2 {
             get {
                 object obj = ResourceManager.GetObject("sinistar2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tapper {
+            get {
+                object obj = ResourceManager.GetObject("tapper", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -53,7 +53,7 @@ namespace ArcadeSaver
             Random r = new Random();
             do
             {
-                rInt = r.Next(1, 15);
+                rInt = r.Next(1, 23);
             } while (rInt == rIntLast);
             rIntLast = rInt;
             SelectNewGame(rInt);
@@ -87,7 +87,7 @@ namespace ArcadeSaver
         private void ArcadeSaverGifScreen_Load(object sender, EventArgs e)
         {
             Random r = new Random();
-            rInt = r.Next(1, 15);
+            rInt = r.Next(1, 23);
             SelectNewGame(rInt);
             TimerSwitchGame.Interval = r.Next(30000, 60000);
             if (!previewMode)
@@ -159,6 +159,30 @@ namespace ArcadeSaver
                     break;
                 case 15:
                     ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.zaxxon;
+                    break;
+                case 16:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.bublbobl;
+                    break;
+                case 17:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.docastle;
+                    break;
+                case 18:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.galaga3;
+                    break;
+                case 19:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.gradius;
+                    break;
+                case 20:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.hangon;
+                    break;
+                case 21:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.mspacman;
+                    break;
+                case 22:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.regulus;
+                    break;
+                case 23:
+                    ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.tapper;
                     break;
                 default:
                     ArcadePictureBox.Image = ArcadeSaver.Properties.Resources.invaders;

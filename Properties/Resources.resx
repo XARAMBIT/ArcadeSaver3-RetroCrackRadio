@@ -169,4 +169,28 @@
   <data name="_ic_galaxian_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\_ic_galaxian_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bublbobl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bublbobl.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="docastle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\docastle.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="galaga3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\galaga3.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gradius" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gradius.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hangon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hangon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mspacman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mspacman.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="regulus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\regulus.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapper.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

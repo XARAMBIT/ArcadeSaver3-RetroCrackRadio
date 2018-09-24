@@ -207,6 +207,30 @@
   <ItemGroup>
     <None Include="Resources\_ic_galaxian_0.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bublbobl.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\docastle.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\galaga3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gradius.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hangon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mspacman.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\regulus.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tapper.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\Costura.Fody.3.1.2\build\Costura.Fody.targets" Condition="Exists('packages\Costura.Fody.3.1.2\build\Costura.Fody.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
