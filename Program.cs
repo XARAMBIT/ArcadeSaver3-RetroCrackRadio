@@ -6,7 +6,6 @@ namespace ArcadeSaver
 {
     static class Program
     {
-
         static int renderMode;
 
         /// The main entry point for the application.
