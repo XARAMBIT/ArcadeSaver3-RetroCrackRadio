@@ -25,85 +25,85 @@ Users and developers can contribute to make the code better.
 
 [Back to 84 - Drive All Night](https://www.youtube.com/watch?v=QqChubkbB7E)
 
-Ben Businovski - Ukyo-e
+[Ben Businovski - Ukyo-e](https://www.youtube.com/watch?v=YH4sg_UDI-8)
 
-Bend & Break (Instrumental)
+[Blade Runnder - Sea Wall](https://www.youtube.com/watch?v=NujlXgBmUoU)
 
-Blade Runnder - Sea Wall
+[Blade Runner 2049 Soundtrack - Rain and Joi (Remix)](https://www.youtube.com/watch?v=9W1n4Oslq3M)
 
-Blade Runner 2049 Soundtrack - Rain and Joi (Remix)
+[By An Ion - Fenestra](https://www.youtube.com/watch?v=8sZeCT-sGtM)
 
-By An Ion - Fenestra
+[By an Ion - Vestiges](https://www.youtube.com/watch?v=RTjDowKG8K4)
 
-By an Ion - Vestiges
+[Chromatics - I'm on Fire](https://www.youtube.com/watch?v=VEFTK1stlGo)
 
-Chromatics - I'm on Fire
+[Chromatics - Into The Black](https://www.youtube.com/watch?v=rSycSBYHitc)
 
-Chromatics - Into The Black
+[College & Electric Youth - A Real Hero (Drive)](https://www.youtube.com/watch?v=wcV1UpZAWAc)
 
-College & Electric Youth - A Real Hero (Drive)
+[Daft Punk - Arena](https://www.youtube.com/watch?v=Z2tDvcy7s-4)
 
-Daft Punk - Arena
+[Daniel Deluxe - Star Eater](https://www.youtube.com/watch?v=QHNakk1oM7g)
 
-Daniel Deluxe - Star Eater
+[Don Henley - The Boys Of Summer](https://www.youtube.com/watch?v=GnCg49dzD0w)
 
-Don Henley - The Boys Of Summer
+[Donkey Kong Country - Aquatic Ambience](https://www.youtube.com/watch?v=gVOzQfe_GQE)
 
-Donkey Kong Country - Aquatic Ambience
-
-Donkey Kong Country 2 - Forest Interlude
+[Donkey Kong Country 2 - Forest Interlude](https://www.youtube.com/watch?v=wxAZfLenfa0)
 
 Donna Lewis -  I Love You Always Forever (Futurecop! Edit)
 
-Donna Lewis - I Love You Always Forever (Figago Remix)
+[Donna Lewis - I Love You Always Forever (Figago Remix)](https://www.youtube.com/watch?v=kchiA16FWvA)
 
-Dream Fiend - Lightyears (feat. September 87)
+[Dream Fiend - Lightyears (feat. September 87)](https://www.youtube.com/watch?v=Urj7Uw4TodA)
 
-Dreamers Avenue - Fire In The Night
+[Dreamers Avenue - Fire In The Night](https://www.youtube.com/watch?v=-0zNjWljDu0)
 
-DRYVE - Blink of an Eye (feat. Lucy Daydream)
+[DRYVE - Blink of an Eye (feat. Lucy Daydream)](https://www.youtube.com/watch?v=ak-o2iv9q04)
 
-DRYVE - Embrace (feat. Llynks)
+[DRYVE - Embrace (feat. Llynks)](https://www.youtube.com/watch?v=I7Z6ociTFMA)
 
-DRYVE - Let it Rain (Feat. FATHERDUDE)
+[DRYVE - Let it Rain (Feat. FATHERDUDE)](https://www.youtube.com/watch?v=9p3i91cKX_4)
 
-Earmake - Sensual_ Sensual (Vapor)
+[Earmake - Sensual_ Sensual (Vapor)](https://www.youtube.com/watch?v=_-TBQorQSrc)
 
-Espen Kraft - The Golden Boy
+[Espen Kraft - The Golden Boy](https://www.youtube.com/watch?v=cXa0ADwQT0A)
 
-FM-84 - Arcade Summer
+[FM-84 - Arcade Summer](https://www.youtube.com/watch?v=ssdA6IiP3r4)
 
-FM-84 - Maverick
+[FM-84 - Bend & Break (Instrumental)](https://www.youtube.com/watch?v=Rq9IR1MbYe4)
 
-FM-84 - Never Stop (feat. Ollie Wride)
+[FM-84 - Maverick](https://www.youtube.com/watch?v=UAA0jVQU2Kk)
 
-FM-84 • Don't Want To Change Your Mind (feat. Ollie Wride)
+[FM-84 - Never Stop (feat. Ollie Wride)](https://www.youtube.com/watch?v=35YpV77tGm0)
 
-Fouche - With You
+[FM-84 • Don't Want To Change Your Mind (feat. Ollie Wride)](https://www.youtube.com/watch?v=NsXxoBuF7Do)
 
-Frankmusik - Closer (Futurecop! Remix)
+[Fouche - With You](https://www.youtube.com/watch?v=zBsacXNN6eE)
 
-Frankmusik - Closer (Kalax)
+[Frankmusik - Closer (Futurecop! Remix)](https://www.youtube.com/watch?v=zRVpF1ARdMw)
 
-Futurecop! - Fade Away (feat. NINA)
+[Frankmusik - Closer (Kalax)](https://www.youtube.com/watch?v=mk626m7MFUg)
 
-Futurecop! - Into The Darkness
+[Futurecop! - Fade Away (feat. NINA)](https://www.youtube.com/watch?v=Q1kmrl9s8uQ)
 
-Futurecop! - Intro
+[Futurecop! - Into The Darkness](https://www.youtube.com/watch?v=eIWr6y0jMAU)
 
-Futurecop! - La Foi En L’eau ft LGHTNNG
+[Futurecop! - Intro](https://www.youtube.com/watch?v=MF2u4Y7VOy4)
 
-Futurecop! - N.A.S.A.
+[Futurecop! - La Foi En L’eau ft LGHTNNG](https://www.youtube.com/watch?v=CC_pSugPqP8)
 
-Futurecop! - Star (feat. Computer Magic)
+[Futurecop! - N.A.S.A.](https://www.youtube.com/watch?v=rYTwRVFHZjo)
 
-Futurecop! - Whispers Of Tao
+[Futurecop! - Star (feat. Computer Magic)](https://www.youtube.com/watch?v=Pi8ccp5VI3Q)
 
-Futurecop! - Zen 4040
+[Futurecop! - Whispers Of Tao](https://www.youtube.com/watch?v=vUjF7QZOgeE)
 
-GUNSHIP - Art3mis & Parzival (Instrumental)
+[Futurecop! - Zen 4040](https://www.youtube.com/watch?v=IlcFEfpIgNA)
 
-GUNSHIP - Art3mis & Parzival
+[GUNSHIP - Art3mis & Parzival (Instrumental)](https://www.youtube.com/watch?v=jmKQVK2XPoQ)
+
+[GUNSHIP - Art3mis & Parzival](https://www.youtube.com/watch?v=WQaH3lh-CA4)
 
 GUNSHIP - Fly For Your Life (Instrumental)
 
