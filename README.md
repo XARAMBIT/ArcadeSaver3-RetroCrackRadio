@@ -223,77 +223,75 @@ Donna Lewis -  I Love You Always Forever (Futurecop! Edit)
 
 [Tangerine Dream - Love on a Real Train(Earmake Remix)](https://www.youtube.com/watch?v=6lEyfkwqVcg)
 
-The Midnight - Arcade Dreams (Timecop1983 Remix)
+[The Midnight - Arcade Dreams (Timecop1983 Remix)](https://www.youtube.com/watch?v=pIkviwo3U1o)
 
-The Midnight - Explorers
+[The Midnight - Explorers](https://www.youtube.com/watch?v=6wdZRSLJvPg)
 
-The Midnight - Kick Drums & Red Wine
+[The Midnight - Kick Drums & Red Wine](https://www.youtube.com/watch?v=eo6RkdzZ8OM)
 
-The Midnight - Los Angeles (Kalax Remix)
+[The Midnight - Los Angeles (Kalax Remix)](https://www.youtube.com/watch?v=bsStLrWpo-8)
 
-The Midnight - Los Angeles (Simon Gabriel Remix)
+[The Midnight - Los Angeles (Simon Gabriel Remix)](https://www.youtube.com/watch?v=kt6sOXEzuYk)
 
-The Midnight - Los Angeles
+[The Midnight - Los Angeles](https://www.youtube.com/watch?v=z_b4tucWzSw)
 
-The Midnight - Lost & Found
+[The Midnight - Lost & Found](https://www.youtube.com/watch?v=Sq7lQVEN7dY)
 
-The Midnight - Lost Boy (Instrumental)
+[The Midnight - Lost Boy (Instrumental)](https://www.youtube.com/watch?v=UH5UUBNbhvY)
 
-The Midnight - Lost Boy
+[The Midnight - Lost Boy](https://www.youtube.com/watch?v=7wvLqpWtTUU)
 
-The Midnight - Memories (instrumental)
+[The Midnight - Memories (instrumental)](https://www.youtube.com/watch?v=4OmW_MPsXaU)
 
-The Midnight - Memories
+[The Midnight - Memories](https://www.youtube.com/watch?v=JQqFeCCuwW0)
 
-The Midnight - Shadows
+[The Midnight - Shadows](https://www.youtube.com/watch?v=_14cb1xCY-4)
 
-The Midnight - Sunset (instrumental)
+[The Midnight - Sunset (instrumental)](https://www.youtube.com/watch?v=Js-A6c3ZJOE)
 
-The Midnight - Sunset
+[The Midnight - Sunset](https://www.youtube.com/watch?v=URma_gu1aNE)
 
-The Midnight - Tokyo Night Train
+[The Midnight - Tokyo Night Train](https://www.youtube.com/watch?v=wDKrxBOADCg)
 
-Timecop1983 -  Hold Me (Instrumental)
+[Timecop1983 -  Hold Me (Instrumental)](https://www.youtube.com/watch?v=gBCH3UTDXGk)
 
-Timecop1983 - After Life (outro)
+[Timecop1983 - After Life (outro)](https://www.youtube.com/watch?v=SSnQKKY4lVo)
 
-Timecop1983 - Alone
+[Timecop1983 - Alone](https://www.youtube.com/watch?v=-E9VZiOXa9s)
 
-Timecop1983 - Back to You (feat. The Bad Dreamers) [instrumental]
+[Timecop1983 - Back to You (feat. The Bad Dreamers) [instrumental]](https://www.youtube.com/watch?v=ZxJ2prjbl0Y)
 
-Timecop1983 - Before Dawn (intro)
+[Timecop1983 - Before Dawn (intro)](https://www.youtube.com/watch?v=9iMdm-hn3P4)
 
-Timecop1983 - Bright Lights
+[Timecop1983 - Bright Lights](https://www.youtube.com/watch?v=_EdydtlynyY)
 
-Timecop1983 - Bright Lights - Desires
+[Timecop1983 - Call on You (feat. The Boy and Sister Alma)](https://www.youtube.com/watch?v=XXqWDtBER9Q)
 
-Timecop1983 - Call on You (feat. The Boy and Sister Alma)
+[Timecop1983 - Childhood Memories](https://www.youtube.com/watch?v=Fg1a0QXhYQE)
 
-Timecop1983 - Childhood Memories
+[Timecop1983 - Come Back](https://www.youtube.com/watch?v=DNwX1UbVUnU)
 
-Timecop1983 - Come Back
+[Timecop1983 - Desires](https://www.youtube.com/watch?v=eihdZchmtSw)
 
-Timecop1983 - Desires
+[Timecop1983 - Did You Move On (feat. Josh Dally)](https://www.youtube.com/watch?v=uPKCN81upoc)
 
-Timecop1983 - Did You Move On (feat. Josh Dally)
+[Timecop1983 - Distant Hearts](https://www.youtube.com/watch?v=4JW2R5oqY7k)
 
-Timecop1983 - Distant Hearts
+[Timecop1983 - Don't Let Go (instrumental)](https://www.youtube.com/watch?v=HeXdRQnogPQ)
 
-Timecop1983 - Don't Let Go (instrumental)
+[Timecop1983 - Dreams (feat. Dana Jean Phoenix)](https://www.youtube.com/watch?v=VOj-USZaz4Q)
 
-Timecop1983 - Dreams (feat. Dana Jean Phoenix)
+[Timecop1983 - Drifting Away](https://www.youtube.com/watch?v=SyauEld1XWc)
 
-Timecop1983 - Drifting Away
+[Timecop1983 - Emotions](https://www.youtube.com/watch?v=DZBiTXEqMUQ)
 
-Timecop1983 - Emotions
+[Timecop1983 - Falling (feat. Josh Dally)](https://www.youtube.com/watch?v=AcEuE88RrCI)
 
-Timecop1983 - Falling (feat. Josh Dally)
+[Timecop1983 - Falling Apart (feat. By An Ion) [The New Division Remix]](https://www.youtube.com/watch?v=GnsV9JW4Jxc)
 
-Timecop1983 - Falling Apart (feat. By An Ion) [The New Division Remix]
+[Timecop1983 - Falling Apart (feat. By An Ion)](https://www.youtube.com/watch?v=K_tUWJwaqqY)
 
-Timecop1983 - Falling Apart (feat. By An Ion)
-
-Timecop1983 - Forever and Ever
+[Timecop1983 - Forever and Ever](https://www.youtube.com/watch?v=2r9zAhP1hG8)
 
 Timecop1983 - Forever
 
