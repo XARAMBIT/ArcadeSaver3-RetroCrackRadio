@@ -293,100 +293,96 @@ Donna Lewis -  I Love You Always Forever (Futurecop! Edit)
 
 [Timecop1983 - Forever and Ever](https://www.youtube.com/watch?v=2r9zAhP1hG8)
 
-Timecop1983 - Forever
+[Timecop1983 - Forever](https://www.youtube.com/watch?v=yfMb7rn_3Nw)
 
-Timecop1983 - Holding on to the Memories
+[Timecop1983 - Holding on to the Memories](https://www.youtube.com/watch?v=sJCvfLHUJOw)
 
-Timecop1983 - It was only a Dream
+[Timecop1983 - It was only a Dream](https://www.youtube.com/watch?v=f0zQkGmSbJk)
 
-Timecop1983 - Let's Talk (feat. Josh Dally) [FM-84 Remix]
+[Timecop1983 - Let's Talk (feat. Josh Dally) [FM-84 Remix]](https://www.youtube.com/watch?v=aTu2j60wHps)
 
 Timecop1983 - Let's Talk (instrumental)
 
-Timecop1983 - Let'sTalk (feat. Josh Dally)
+[Timecop1983 - Let's Talk (feat. Josh Dally)](https://www.youtube.com/watch?v=safYUUsUslk)
 
-Timecop1983 - Letting Go
+[Timecop1983 - Letting Go](https://www.youtube.com/watch?v=p0E3aDDneD8)
 
-Timecop1983 - Lonely Nights
+[Timecop1983 - Lonely Nights](https://www.youtube.com/watch?v=jcmTpBMjAnI)
 
-Timecop1983 - Lost in Your Eyes (feat. Per Rinaldo)
+[Timecop1983 - Lost in Your Eyes (feat. Per Rinaldo)](https://www.youtube.com/watch?v=-6fbaaERI4k)
 
-Timecop1983 - Lost Without You (feat. Matt Turkington)
+[Timecop1983 - Lost Without You (feat. Matt Turkington)](https://www.youtube.com/watch?v=MWuv8hNz44s)
 
 Timecop1983 - Lost Without You (instrumental)
 
-Timecop1983 - Lovers (feat.  SEAWAVES) [The New Division Remix]
+[Timecop1983 - Lovers (feat.  SEAWAVES) [The New Division Remix]](https://www.youtube.com/watch?v=-_ftYg8N5XA)
 
-Timecop1983 - Lovers (feat. SEAWAVES)
+[Timecop1983 - Lovers (feat. SEAWAVES)](https://www.youtube.com/watch?v=4Q-QAnmC0PA)
 
-Timecop1983 - Moving On
+[Timecop1983 - Moving On](https://www.youtube.com/watch?v=9K_6ZeJ6MSc)
 
-Timecop1983 - My First Crush (feat. Trevor Something)
+[Timecop1983 - My First Crush (feat. Trevor Something)](https://www.youtube.com/watch?v=hAxSVf7zoD8)
 
 Timecop1983 - My First Crush (instrumental)
 
-Timecop1983 - New Beginnings
+[Timecop1983 - New Beginnings](https://www.youtube.com/watch?v=fhjRG8tLqD8)
 
-Timecop1983 - New Horizons
+[Timecop1983 - New Horizons](https://www.youtube.com/watch?v=NR3hyqFCFh4)
 
-Timecop1983 - Nightfall
+[Timecop1983 - Nightfall](https://www.youtube.com/watch?v=NYEDr34FyOk)
 
-Timecop1983 - On the Run
+[Timecop1983 - On the Run](https://www.youtube.com/watch?v=_Ci0Kgdpgsw)
 
-Timecop1983 - One Night (feat. Josh Dally)
+[Timecop1983 - One Night (feat. Josh Dally)](https://www.youtube.com/watch?v=CrSGmgahnHU)
 
-Timecop1983 - Secrets
+[Timecop1983 - Secrets](https://www.youtube.com/watch?v=kEYNRi9ufWs)
 
-Timecop1983 - Static (feat. The Midnight) [instrumental]
+[Timecop1983 - Static (feat. The Midnight) [instrumental]](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Tokyo (feat. Kinnie Lane)
+[Timecop1983 - Tokyo (feat. Kinnie Lane)](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Tokyo (Instrumental)
+[Timecop1983 - Tokyo (Instrumental)](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Tonight (instrumental)
+[Timecop1983 - Tonight](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Tonight
+[Timecop1983 - Too Late (feat. LeBrock)](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Too Late (feat. LeBrock)
+[Timecop1983 - Waves](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Waiting
+[Timecop1983 - Wild Love](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Waves
+[Tokyo Rose - Midnight Chase (Remastered)](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Timecop1983 - Wild Love (instrumental)
+[TOKYO ROSE - Midnight Chase](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Tokyo Rose - Midnight Chase (Remastered)
+[Tonebox - Overload (feat. TOKYO ROSE)](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-TOKYO ROSE - Midnight Chase
+[Traxx - Behind Us](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Tonebox - Overload (feat. TOKYO ROSE)
+[Traxx - In the End](https://www.youtube.com/watch?v=3EzH0ZLo4Jw)
 
-Traxx - Behind Us
+[Tristeza - Opiate Slopes](https://www.youtube.com/watch?v=_ZrR2UZVB7A)
 
-Traxx - In the End
+[Turbo Knight - Mirrorverse](https://www.youtube.com/watch?v=PQggvJx_kFA)
 
-Tristeza - Opiate Slopes
+[Turbo Knight & K.A.R.R - Quantum Shift](https://www.youtube.com/watch?v=VVuHeK8ZZCc)
 
-Turbo Knight - Mirrorverse
+[Veeshy & Brandon Mignacca - Let Me Down](https://www.youtube.com/watch?v=VZNe1CeBid8)
 
-Turbo Knight & K.A.R.R - Quantum Shift
+[W O L F C L U B - Can't Stop Falling In Love](https://www.youtube.com/watch?v=gK6lPEKid64)
 
-Veeshy & Brandon Mignacca - Let Me Down
+[W O L F C L U B - Chasing the Storm](https://www.youtube.com/watch?v=GOV-Ilbl9aI)
 
-W O L F C L U B - Can't Stop Falling In Love
+[W O L F C L U B - Gravity](https://www.youtube.com/watch?v=l4sxnOKJDOA)
 
-W O L F C L U B - Chasing the Storm
+[W O L F C L U B - Infinity](https://www.youtube.com/watch?v=jyrZKq-tq80)
 
-W O L F C L U B - Gravity
+[W O L F C L U B - Just Drive (Official Video)  feat. Summer Haze](https://www.youtube.com/watch?v=Z1kAGzKaLOQ)
 
-W O L F C L U B - Infinity
+[W O L F C L U B - Late Night Getaway Drive](https://www.youtube.com/watch?v=cB-VJKb0p1k)
 
-W O L F C L U B - Just Drive (Official Video)  feat. Summer Haze
+[W O L F C L U B - Oceans](https://www.youtube.com/watch?v=roe4dJvHBRQ)
 
-W O L F C L U B - Late Night Getaway Drive
+[YORU 夜 - Skylines](https://www.youtube.com/watch?v=srJnXlxTVIo)
 
-W O L F C L U B - Oceans
-
-YORU 夜 - Skylines
-
-YORU 夜 - Way Back Home (feat. Del-Anov)
+[ORU 夜 - Way Back Home (feat. Del-Anov)](https://www.youtube.com/watch?v=tS15tesGKyA)
