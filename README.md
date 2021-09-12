@@ -14,7 +14,7 @@ Add /c into poject command line arguments to test configuration window.
 # Contribute
 Users and developers can contribute to make the code better.
 
-# Music
+# Good Songs
 [At 1980 - California Nights](https://www.youtube.com/watch?v=8fplvRQc_nQ)
 
 [At 1980 - Missing You](https://www.youtube.com/watch?v=i_XkHZ3yvZY)
