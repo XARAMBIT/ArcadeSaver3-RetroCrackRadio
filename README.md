@@ -11,7 +11,7 @@ Can be used with ArcadeSaver, Music Videos, LiveStream
 https://drive.google.com/drive/folders/1yCfXiV6o79cZ1RerJSJkLHl7qtwjhYA7?usp=sharing
 
 # RetroCrackRadio Channel
-https://www.youtube.com/channel/UCqXhjN_W8mJbLJ1ZT2zhWOg
+https://www.youtube.com/watch?v=9AkRdPmQ69I
 
 # Good Songs
 [At 1980 - California Nights](https://www.youtube.com/watch?v=8fplvRQc_nQ)
