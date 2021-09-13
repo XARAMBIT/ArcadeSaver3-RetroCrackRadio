@@ -1,6 +1,8 @@
 ![retrocrack](https://user-images.githubusercontent.com/52842013/133008073-fe600872-ccc8-4c23-9a3b-ce37ee951245.gif)
 
 # ArcadeSaver
+Windows 7, 8 & 10 Arcade Game Screen Saver. Plays video files
+
 https://www.dropbox.com/s/rmhup79mt9y643f/ArcadeSaver3_v1.1.zip?dl=0
 
 # Videos
@@ -10,20 +12,6 @@ https://drive.google.com/drive/folders/1yCfXiV6o79cZ1RerJSJkLHl7qtwjhYA7?usp=sha
 
 # RetroCrackRadio Channel
 https://www.youtube.com/channel/UCqXhjN_W8mJbLJ1ZT2zhWOg
-
-# Introduction
-Windows 7, 8 & 10 Arcade Game Screen Saver. Plays video files
-
-# Getting Started
-Guide:
-1.	Rename built ArcadeSaver3.exe file to ArcadeSaver3.scr
-2.	Copy the file to your C:\Windows\System32 folder
-
-# Build and Test
-Add /c into poject command line arguments to test configuration window.
-
-# Contribute
-Users and developers can contribute to make the code better.
 
 # Good Songs
 [At 1980 - California Nights](https://www.youtube.com/watch?v=8fplvRQc_nQ)
@@ -399,3 +387,14 @@ Timecop1983 - My First Crush (instrumental)
 [YORU 夜 - Skylines](https://www.youtube.com/watch?v=srJnXlxTVIo)
 
 [ORU 夜 - Way Back Home (feat. Del-Anov)](https://www.youtube.com/watch?v=tS15tesGKyA)
+
+# Getting Started
+Guide:
+1.	Rename built ArcadeSaver3.exe file to ArcadeSaver3.scr
+2.	Copy the file to your C:\Windows\System32 folder
+
+# Build and Test
+Add /c into poject command line arguments to test configuration window.
+
+# Contribute
+Users and developers can contribute to make the code better.
