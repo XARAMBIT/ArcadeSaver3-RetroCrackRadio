@@ -5,7 +5,7 @@ Windows 7, 8 & 10 Arcade Game Screen Saver. Plays video files
 
 https://www.dropbox.com/s/rmhup79mt9y643f/ArcadeSaver3_v1.1.zip?dl=0
 
-# Videos
+# My Videos
 Can be used with ArcadeSaver, Music Videos, LiveStream
 
 https://drive.google.com/drive/folders/1yCfXiV6o79cZ1RerJSJkLHl7qtwjhYA7?usp=sharing
@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1yCfXiV6o79cZ1RerJSJkLHl7qtwjhYA7?usp=sha
 # RetroCrackRadio Channel
 https://www.youtube.com/watch?v=9AkRdPmQ69I
 
-# Good Songs
+# Playlist
 [At 1980 - California Nights](https://www.youtube.com/watch?v=8fplvRQc_nQ)
 
 [At 1980 - Missing You](https://www.youtube.com/watch?v=i_XkHZ3yvZY)
